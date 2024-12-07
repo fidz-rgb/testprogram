@@ -1,3 +1,3 @@
 <div>
-    <h1>Welcome to Homepage <?=$nama ?> !</h1>
+    <h1 style="text-align: center;">Welcome to Homepage !</h1>
 </div>
